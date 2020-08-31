@@ -1,2 +1,2 @@
 # weather-api-app
- A weather foreccast app made using OpenWeather api
+ A weather forecast app made using Open-Weather api which uses django as a backend
